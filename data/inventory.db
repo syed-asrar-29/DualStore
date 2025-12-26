@@ -1,0 +1,11 @@
+{"_id":"ITEM-001","available":100,"reserved":0}
+{"_id":"ITEM-002","available":50,"reserved":0}
+{"_id":"ITEM-003","available":10,"reserved":0}
+{"_id":"ITEM-001","available":99,"reserved":1}
+{"_id":"ITEM-001","available":99,"reserved":0}
+{"$$deleted":true,"_id":"ITEM-001"}
+{"$$deleted":true,"_id":"ITEM-002"}
+{"$$deleted":true,"_id":"ITEM-003"}
+{"_id":"ITEM-001","available":100,"reserved":0}
+{"_id":"ITEM-002","available":50,"reserved":0}
+{"_id":"ITEM-003","available":10,"reserved":0}

@@ -1,0 +1,4 @@
+{"_id":"da1c0e9d-cd9f-498b-b1e1-ccac68c3bf5c","state":"STARTED","context":{"customerId":"USER-568","sku":"ITEM-001","quantity":1},"updatedAt":{"$$date":1766726346600}}
+{"_id":"da1c0e9d-cd9f-498b-b1e1-ccac68c3bf5c","state":"STARTED","context":{"customerId":"USER-568","sku":"ITEM-001","quantity":1,"orderId":1},"updatedAt":{"$$date":1766726346600}}
+{"_id":"da1c0e9d-cd9f-498b-b1e1-ccac68c3bf5c","state":"COMMITTED","context":{"customerId":"USER-568","sku":"ITEM-001","quantity":1,"orderId":1},"updatedAt":{"$$date":1766726346627}}
+{"$$deleted":true,"_id":"da1c0e9d-cd9f-498b-b1e1-ccac68c3bf5c"}
